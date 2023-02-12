@@ -1,3 +1,5 @@
 domain: gentlemin.github.io
 url: https://gentlemin.github.io
+markdown: kramdown
+theme: minima
 baseurl: /
