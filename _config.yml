@@ -1,5 +1,7 @@
 domain: gentlemin.github.io
 url: https://gentlemin.github.io
-markdown: kramdown
 theme: minima
+markdown: kramdown
+kramdown:
+   math_engine: katex
 baseurl: /
