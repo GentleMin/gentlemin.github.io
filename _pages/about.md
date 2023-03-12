@@ -24,7 +24,7 @@ Grüezi! Welcome to the personal homepage of Jingtao Min.
 Currently a doctoral student in Earth sciences at Departement Erdwissenschaften, ETH Zürich, I am mainly interested in numerical modelling, [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) and [data assimilation](https://en.wikipedia.org/wiki/Data_assimilation) in geophysics.
 
 Since the beginning of my doctoral studies, I have taken a slight shift towards the underlying physics, and have been involved with studying the [magnetohydrodynamic waves](https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave) in the Earth fluid outer core.
-With improved physical models, we might be able to place new constraints on the lower mantle conductivity structure or the magnetic field in the core, which ultimately effects the core-mantle, inner-core-outer-core coupling, and exchanges angular momentum between the different layers of the Earth.
+With improved physical models, we might be able to place new constraints on the lower mantle conductivity structure or the magnetic field in the core, which ultimately affects the core-mantle, inner-core-outer-core coupling, and exchanges angular momentum between the different layers of the Earth.
 Being a fickle person in pursuit of Earth sciences, I find my interest constantly shifting, and I'm open to new ideas.
 
 I have been a major fantasy lover: *[Harry Potter](https://harrypotter.fandom.com/wiki/Main_Page)*, *[Lord of the Rings](https://lotr.fandom.com/wiki/Main_Page)*, and *[Chronicles of Narnia](https://narnia.fandom.com/wiki/The_Chronicles_of_Narnia_Wiki)*, for which I have been waiting forever for the next movie episode.
