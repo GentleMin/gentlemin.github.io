@@ -6,8 +6,8 @@ permalink: /projects/
 description: Research works, thesis, other projects and gadgets.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [Geomagnetism, Geodynamics, Seismology]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -21,7 +21,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
