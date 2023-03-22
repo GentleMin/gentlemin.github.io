@@ -4,6 +4,7 @@ title: Central Europe 2022 - Journey into the Renaissance from Firenze to Venezi
 date: 2022-10-23 12:00:00-0400
 description: I kicked off my journey with a tour from Firenze to Venezia, two major cities that connect the Italian high Renaissance to Venetian school.
 tags: 
+  - Italy
   - Firenze
   - Venezia
 categories: Travel
