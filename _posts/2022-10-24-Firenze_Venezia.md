@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Central Europe 2022 - Journey into the Renaissance from Firenze to Venezia
-date: 2022-10-23 12:00:00-0400
+date: 2022-10-24 12:00:00-0400
 description: I kicked off my journey with a tour from Firenze to Venezia, two major cities that connect the Italian high Renaissance to Venetian school.
 tags: 
   - Italy
@@ -45,11 +45,7 @@ The huge collection and the masterpieces are well arranged through curating effo
 
 In addition to Botticelli's masterpieces like Spring (Primavera) and The Birth of Venus, Uffizi also exhibits some works by Raphael Sanzio, Leonardo Da Vinci, as well as Michelangelo. Although high renaissance artists are generally very apt with depicting human bodies, none of them are close to the level of Michelangelo. The state of the muscles and the pose of Madonna in his Don Tondo are so full of strength and trends of motion; I suspect they require mastery of sculpture, as possessed by Michelangelo, to introduce such athletic sketches into paintings.
 
-<br />
-
 ---
-
-<br />
 
 ## Venezia
 

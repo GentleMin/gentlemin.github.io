@@ -40,11 +40,7 @@ It seemed curious indeed that as a major line connecting Italy and the Slovenien
     Left: Interior of church; right: the Ljubljana castle.
 </div>
 
-<br />
-
 ---
-
-<br />
 
 In sharp contrast to the museums in Italy, where the paintings and artifacts densely populate the exhibition area, museums in Ljubljana have much more moderate collections. Nevertheless, my visit to the national museum was made pleasant by the excellent curation of the historical exhibition. With a limited collection, the curator chose to focus on a few items and expanded the chronological storyline around these artifacts. Early lithic tools and bone flutes, delicate swords from bronze age, a luxuriously decorated copper bucket, and relics of a stone tablet from the Roman empire. These important items served as a thread to connect the dots in the history of Slovenia. The storytelling was also accompanied by nice illustrations, and documentaries. I was particularly fond of one documentary showing how different lithic tools could actually be used to cut or scrape meat, and another documentary illustrating how the motifs had been made on the copper wares. These reconstructions of the techniques are rare finds in museums, and were definitely an eye-opening experience for me. The adjacent natural history museum in the same building was however not so fascinating, partly because of the fact that natural history museums generally have similar contents and collections around the globe, and the disadvantage in collections and curating is more apparent when you compare it to other grand natural history museums in the world (I haven't been to the ones in London or Washington D.C., but the Slovenien one is definitely dwarfed by the natural history museums in Shanghai and Melbourne). Unless one has special interest in local species in Slovenien lands, the natural history museum is probably not worth a visit.
 
