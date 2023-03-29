@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Central Europe 2022 - Bratislava - Prague
-date: 2022-10-31 12:00:00-0400
+date: 2022-11-02 12:00:00-0400
 description: Entering the land of the west Slavs.
 tags: 
   - Slovakia
