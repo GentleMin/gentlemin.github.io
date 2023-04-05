@@ -173,6 +173,7 @@ $$
 $$
 
 $$\Lambda_s$$ is a vector operator, and its contraction with any vector field yields the surface curl of the field. It is shown in Backus 1986 that the cross product of vectors can also be expressed as tensor-vector contraction, hence there is no problem in writing this definition. **Note surface curl is a scalar**, which is understandable since we are considering the rotational property on a 2-D Riemann manifold.
+
 There are many equivalent forms for the surface curl. Using the fact that $$\nabla \times \mathbf{r} = 0$$, $$\nabla_s\times \hat{\mathbf{r}} = 0$$, and the operator identity $$\mathbf{K}\cdot (\mathbf{L}\times \mathbf{M}) = (\mathbf{K} \times \mathbf{L}) \cdot \mathbf{M}$$  introduced in [Backus, 1986](https://doi.org/10.1029/RG024i001p00075), the surface curl operator can be defined as
 
 $$
