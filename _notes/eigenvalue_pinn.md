@@ -128,7 +128,7 @@ There is no explicit (or as Boyd puts it, "numerical") boundary condition to thi
     </div>
 </div>
 <div class="caption">
-    Eigenvalue-eigenfunction searching for Legendre equation, with driver c set to 100. The target solution it converges to is the normalized form of Legendre polynomial $$P_{10}$$, and the eigenvalue -n(n+1)=-110.
+    Eigenvalue-eigenfunction searching for Legendre equation, with driver c set to 100. The target solution it converges to is the normalized Legendre polynomial of degree 10, and the eigenvalue -n(n+1)=-110.
 </div>
 
 <br />
