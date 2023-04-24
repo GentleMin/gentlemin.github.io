@@ -35,7 +35,7 @@ Although the work is still ongoing, please allow me to present the Chinese trans
 
 <p>
 Download link for the full PDF version of ZVV 110-zone map:
-<a href="assets/pdf/zvv-stadt-zuerich_zh.pdf" target="_blank" rel="noopener noreferrer">
+<a href="{{'assets/pdf/zvv-stadt-zuerich_zh.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-pdf"></i>
 </a>
 </p>
