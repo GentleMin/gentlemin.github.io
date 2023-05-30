@@ -7,8 +7,9 @@
         {%- endif -%}
         {%- if site.last_updated -%}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
-        {%- endif %}
-      </div>
+	{%- endif %}
+	<a href="https://hits.sh/gentlemin.github.io{{ page.path }}"><img alt="Hits" src="https://hits.sh/gentlemin.github.io{{ page.path }}.svg?color=9277f0"/></a>
+     </div>
     </footer>
     {%- else -%}
     <footer class="sticky-bottom mt-5">
@@ -19,7 +20,8 @@
         {%- endif -%}
         {%- if site.last_updated -%}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
-        {%- endif %}
+	{%- endif %}
+	<a href="https://hits.sh/gentlemin.github.io{{ page.path }}"><img alt="Hits" src="https://hits.sh/gentlemin.github.io{{ page.path }}.svg?color=9277f0"/></a>
       </div>
-    </footer>
+   </footer>
     {%- endif %}
