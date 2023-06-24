@@ -7,28 +7,26 @@ date: 2023-06-15 12:30:00-0400
 category: Physics
 ---
 
----
-
 ## Electromagnetic boundary conditions
 
 ### Insulating boundary for sphere
 
 Setup: a electrically conductive sphere with finite conductivity, in contact with a perfect insulating exterior, which extends to infinity. There are no imposed or conducted currents anywhere outside the sphere. The electromagnetic boundary condition requires 
-- continuity of boundary-normal magnetic field $$\hat{\mathbf{n}}\cdot[\mathbf{B}] = 0$$, absolutely required by solenoidal property of magnetic field
-- continuity of boundary-tangent electric field $$\hat{\mathbf{n}}\times[\mathbf{E}] = \mathbf{0}$$, absolutely required by Faraday's law and magnetic field being finite
-- continuity of boundary-tangent magnetic field $$\hat{\mathbf{n}}\times [\mathbf{B}] = \mathbf{0}$$, required by Ampere's law on condition that there is no current sheet (=infinitely large current density concentrated in infinitely thin sheet)
+- continuity of boundary-normal magnetic field $$\hat{\mathbf{n}}\cdot[\![\mathbf{B}]\!] = 0$$, absolutely required by solenoidal property of magnetic field
+- continuity of boundary-tangent electric field $$\hat{\mathbf{n}}\times[\![\mathbf{E}]\!] = \mathbf{0}$$, absolutely required by Faraday's law and magnetic field being finite
+- continuity of boundary-tangent magnetic field $$\hat{\mathbf{n}}\times [\![\mathbf{B}]\!] = \mathbf{0}$$, required by Ampere's law on condition that there is no current sheet (=infinitely large current density concentrated in infinitely thin sheet)
 The last seems to have been argued on the ground that a current sheet would diffuse into the interior of the conductive fluid (see *Treatise*).
 
 For the geodynamo problem, for some reason yet unbeknown to me, that the continuity of the electric field is not usually enforced or implemented. The boundary condition that is actually used is the continuity of the magnetic field
 
 $$
-[\mathbf{B}] = \mathbf{0}
+[\![\mathbf{B}]\!] = \mathbf{0}
 $$
 
 ***Corollary***: when the tangent components of magnetic fields are continuous, by nature the curl of the magnetic field normal to the plane must be continuous. This can be easily verified by constructing closed rectangular loops whose enclosed surfaces are parallel to the boundary at each side of the boundary. Therefore,
 
 $$
-\hat{\mathbf{n}}\cdot [\nabla\times \mathbf{B}] = 0
+\hat{\mathbf{n}}\cdot [\![\nabla\times \mathbf{B}]\!] = 0
 $$
 
 On the other hand, for the insulating exterior, if displacement current is neglected (*this is another assumption, which arises when the frequency is low enough. For the conductive medium, it means $$\omega \varepsilon \ll \sigma$$; for the insulator, it means the $$c/\omega$$ is much greater than the length scale on which the field varies. This pre-Maxwell form is used everywhere in core dynamics and EM sounding communities, but becomes a bit problematic when one wants to deal with energy flux in idealized insulating medium*), then $$\nabla\times \mathbf{B}=0$$ everywhere in the insulating region. To pair with this, one must have
@@ -127,4 +125,6 @@ $$
 
 which gives the boundary solely in terms of the field coefficients in the interior region. It can be easily shown that for any field that satisfies this condition, there is a field within the insulating medium exterior to the sphere so that the original boundary conditions are satisfied. Therefore, this set of BC is sufficient and necessary.
 
+
+## Kinematic boundary conditions
 
