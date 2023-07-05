@@ -68,6 +68,19 @@ if __name__ == "__main__":
         doc_string = '\n' + doc_string + '\n'
         
         doc_string = inline_pattern.sub(inline_replace, doc_string)
+        doc_string = display_pattern.sub(display_replace, doc_string)
+        doc_string = yaml_hdr_pattern.sub("\n", doc_string)
+        
+        hdr = get_yaml_hdr(yaml_template)
+        doc_string = hdr + '\n' + doc_string
+        
+        with open(out_fname, 'w') as f:
+            print(doc_string, file=f)
 ```
 
+The aforementioned code can be accessed directly via commandline. 
+For instance, to convert `<src-md-file>` to `<out-md-file>`, using the yaml header block in `<yaml-template>`, one can invoke this script using the following command:
 
+```bash
+python .\std2kramdown.py <src-md-file> -t <yaml-template> -o <out-md-file>
+```
