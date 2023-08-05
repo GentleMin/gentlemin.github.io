@@ -252,7 +252,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
-display_categories: ['Sci-Tech', 'Book', 'Music', 'Film-TV', 'Travel'] # this tags will be dispalyed on the front page of your blog
+display_categories: ['Sci-Tech', 'Book', 'Music', 'Film-TV', 'Travel', 'Life'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
