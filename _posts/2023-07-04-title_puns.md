@@ -23,4 +23,8 @@ In rare circumstances where these items are actually used, please give me (and c
   - Origin: Modified from DC Comic's [Aquaman](https://www.dc.com/characters/aquaman).
   - Possible scenario: For research works on simulation of earthquake nucleation associated with fluid/water effects. Ideally, the works should involve earthquake nucleation in marine or water environment, but this scenario seems highly unlikely. Therefore, multi-phase flows that involve fluid phases should also count.
   - Author: J Min
+- ***Poly Cow***
+  - Origin: Modified from the Swiss burger restaurant [Holy Cow](https://www.holycow.ch/en/). Amazingly, I always thought this was just a one-store restaurant on Zähringerstrasse, but it turned out to be a chain.
+  - Possible scenario: establishing a burger place in or very close to ETH zentrum campus, e.g. on the same floor with bQm, Einstein Zweistein. May however be sued by Holy Cow.
+  - Author: J Min
 
