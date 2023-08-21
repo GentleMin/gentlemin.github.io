@@ -24,7 +24,7 @@ horizontal: false
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_notes = site.notes | where: "category", category -%}
-  {%- assign sorted_notes = categorized_notes | sort: "date" | reverse %}
+  {%- assign sorted_notes = categorized_notes | sort: "date" %}
   <!-- Generate lines for each project -->
   <ul class="post-list">
     {% for post in sorted_notes %}
