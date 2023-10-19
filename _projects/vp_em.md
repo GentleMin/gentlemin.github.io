@@ -3,7 +3,7 @@ layout: page
 title: Simultaneous inversion of source and conductivity
 description: Master thesis (2022)
 img: assets/img/em/Model_recovery__Q-VP.png
-importance: 1
+importance: 8
 attachment: em_vp.pdf
 category: Geomagnetism
 ---

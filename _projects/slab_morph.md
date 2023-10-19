@@ -3,7 +3,7 @@ layout: page
 title: Slab morphology under varying mantle-plate properties
 description: Semester project (2021)
 img: assets/img/geodynamics/jump_snaps_cover.png
-importance: 1
+importance: 10
 attachment: Term_project__slab_morphology_in_lower_mantle.pdf
 category: Geodynamics
 ---

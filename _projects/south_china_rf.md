@@ -3,7 +3,7 @@ layout: page
 title: Teleseismic receiver function study of South China
 description: Bachelor thesis (2020)
 img: assets/img/seismology/SChina_cover.png
-importance: 1
+importance: 20
 attachment: south_china_rf.pdf
 category: Seismology
 ---
