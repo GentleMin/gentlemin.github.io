@@ -21,3 +21,11 @@ This project was finished in 2022 as Master thesis under the supervision of Dr. 
     Schematic plot of how the inducing source and the subsurface conductivity are simultaneously inverted.
 </div>
 
+### Resources and downloads
+- [Repo] For the code please contact the authors. The repo is located in Alexander's private GitHub project, and cannot be easily made public.
+- [PDF] <a href="{{ 'assets/pdf/em_vp.pdf' | relative_url }}">Original master thesis</a>. It is recommended to view the publication (see below) on *Earth Planets and Space* since there are quite some updated contents after the thesis.
+- [PDF] <a href="https://doi.org/10.1186/s40623-023-01816-5">Published work</a> on *Earth Planets and Space*. PDF version <a href="{{ 'assets/pdf/Min_Grayver__2023.pdf' | relative_url }}">download</a>.
+- [PDF] <a href="{{ 'assets/pdf/EM_inversion_with_VP__IUGG__MinJingtao.pdf' | relative_url }}">Presentation slides for this work at IUGG 2023</a>. Adobe acrobat recommended as the presentation contains a video snippet.
+<br />
+
+
