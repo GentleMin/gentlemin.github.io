@@ -38,7 +38,8 @@ Figure below visualizes an eigenmode solved using this code.
 
 ### Code and demos
 - [Repo] [PlesioGeostroPy](https://github.com/GentleMin/PlesioGeostroPy).
+- [Documentation] [PlesioGeostroPy](https://gentlemin.github.io/PlesioGeostroPy/).
 - [IPython notebook] [Regularity conditions on tensor components in polar coordinates](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/Demo_Regularity.ipynb).
-- [IPython notebook] [Demo and Tutorial for PlesioGeostroPy](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/PG_demo.ipynb).
-- [IPython notebook] [Eigenvalue solver for PG model](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/EigenPG.ipynb).
+- [IPython notebook] [Demo and Tutorial for PlesioGeostroPy](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/Demo_PlesioGeostroPy_Basics.ipynb).
+- [IPython notebook] [Eigenvalue solver for PG model](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/Eigen_Solve.ipynb).
 
