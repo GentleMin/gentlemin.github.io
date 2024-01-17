@@ -30,7 +30,7 @@ Figure below visualizes an eigenmode solved using this code.
 ---
 
 ### Formulation and documentation
-- [PDF] <a href="{{ 'assets/pdf/Ingredients.pdf' | relative_url }}">Formulations for PG model: missing ingredients and new recipes</a>.
+- [PDF] <a href="{{ 'assets/pdf/PG_Ingredients.pdf' | relative_url }}">Formulations for PG model: missing ingredients and new recipes</a>.
 - [PDF] <a href="{{ 'assets/pdf/regular_tensors_polar_coordinates.pdf' | relative_url }}">Regularity conditions for general tensors in polar coordinates</a>.
 <br />
 
