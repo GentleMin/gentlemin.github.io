@@ -42,4 +42,8 @@ Figure below visualizes an eigenmode solved using this code.
 - [IPython notebook] [Regularity conditions on tensor components in polar coordinates](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/demos/Demo_Regularity.ipynb).
 - [IPython notebook] [Quickstart for PlesioGeostroPy](https://gentlemin.github.io/PlesioGeostroPy/demos/Demo_PlesioGeostroPy_Basics.html), alternatively view using [nbviewer](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/demos/Demo_PlesioGeostroPy_Basics.ipynb). Further code-specific tutorials, please refer to the documentation page.
 - [IPython notebook] [Eigenvalue solver for PG model](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/Eigen_Solve.ipynb).
-
+- [IPython notebook] [Demonstrative tests](https://nbviewer.org/github/GentleMin/PlesioGeostroPy/blob/main/Tests.ipynb), currently includes
+  - Using recurrence relation for evaluation of Jacobi polynomials,
+  - Using product form to calculate the inner product matrices,
+  - Multi-precision libraries, precision and efficiency tests, and calculating matrices in multi-prec,
+  - Basis functions for vorticity and velocity components.
