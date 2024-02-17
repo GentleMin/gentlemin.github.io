@@ -42,18 +42,23 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
+	    <br />
+	    <hr>
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html %}
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
+	    <br />
+	    <hr>
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
           <!-- Social -->
           {%- if page.social %}
+	    <br />
             <div class="social">
               <div class="contact-icons">
                 {% include social.html %}
