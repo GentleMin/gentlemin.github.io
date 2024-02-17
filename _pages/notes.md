@@ -28,7 +28,15 @@ horizontal: false
   <!-- Generate lines for each project -->
   <ul class="post-list">
     {% for post in sorted_notes %}
-    {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
+      {% if post.redirect == blank %}
+        {% if post.cjk %}
+          {% assign read_time = post.content | number_of_words: "cjk" | divided_by: 350 | plus: 1 %}
+        {% else %}
+          {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+        {% endif %}
+      {% else %}
+        {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
+      {% endif %}
     {% assign year = post.date | date: "%Y" %}
     <li>
       <h3>
@@ -64,7 +72,11 @@ horizontal: false
   <!-- Generate cards for each project -->
   <ul class="post-list">
     {% for post in sorted_notes %}
-    {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
+      {% if post.cjk %}
+        {% assign read_time = post.feed_content | strip_html | number_of_words: "cjk" | divided_by: 350 | plus: 1 %}
+      {% else %}
+        {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
+      {% endif %}
     {% assign year = post.date | date: "%Y" %}
     <li>
       <h3>
