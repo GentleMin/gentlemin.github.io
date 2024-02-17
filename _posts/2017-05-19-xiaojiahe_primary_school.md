@@ -4,6 +4,7 @@ title: 肖家河风华爱心小学
 date: 2017-05-19 22:12:00-0400
 description: 肖家河风华爱心小学支教见闻
 categories: Life
+cjk: true
 related_posts: false
 ---
 

@@ -4,6 +4,7 @@ title: 燕园食记
 date: 2021-08-08 22:12:00-0400
 description: 
 categories: Life
+cjk: true
 related_posts: false
 ---
 

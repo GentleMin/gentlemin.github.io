@@ -15,7 +15,7 @@ This makes publishing a standard markdown page complicated, as the standard .md 
 In some scenarios, it is possible to disable math processing of kramdown, and leave it directly to MathJax or KaTeX to interpret and render the result.
 However, this no longer works perfectly when there is markdown escape characters in the equation environment. For instance, the underscore is a valid character in equations. If kramdown does not know it is equation and process it as plain markdown text, it will be interpreted into italics or other formatting marks. Eventually, the formatting html segments will also break the rendering of MathJax or KaTex.
 
-The only approach that worked for me is to manually converting the standard markdown into kramdown style. To this end I use the regular expression to capture the equation environments and replace the delimiters. The python code is as follows.
+The only approach that worked for me is to manually converting the standard markdown into kramdown style. To this end I use the regular expression to capture the equation environments and replace the delimiters. The python code is as follows (see also the [GitHub gist page](https://gist.github.com/GentleMin/39fe427d7f9f387c805e2432e4178b82)).
 
 ```python
 import re
