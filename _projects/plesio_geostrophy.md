@@ -29,11 +29,16 @@ Figure below visualizes an eigenmode solved using this code.
 
 ---
 
-### Formulation and documentation
-- [PDF] <a href="{{ 'assets/pdf/PG_Ingredients.pdf' | relative_url }}">Formulations for PG model: missing ingredients and new recipes</a>.
+### Formulation, documentation and results
+- [PDF] <a href="{{ 'assets/pdf/PG_Ingredients.pdf' | relative_url }}">Formulations for PG model: missing ingredients and new recipes</a>. Recent updates:
+  - Energy calculation: in progress
+  - Multi-precision calculation: in progress
+- [PDF] <a href="{{ 'assets/pdf/PG_Results.pdf' | relative_url }}">Results of the PG model.</a>. Recent updates:
+  - Hydrodynamic results added, equations and numerical analysis complete.
+  - Malkus field results added, equations complete.
+  - Poloidal dipolar field results added, equations complete.
 - [PDF] <a href="{{ 'assets/pdf/regular_tensors_polar_coordinates.pdf' | relative_url }}">Regularity conditions for general tensors in polar coordinates</a>.
 <br />
-
 ---
 
 ### Code and demos
