@@ -25,6 +25,7 @@ Figure below visualizes an eigenmode solved using this code.
 ### Theory paper and reference material
 - Theory and concept paper, [Jackson and Maffei (2020)](https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0513).
 - Daria Holdenried-Chernoff's [doctoral thesis (2021)](https://www.research-collection.ethz.ch/handle/20.500.11850/509840).
+
 <br />
 
 ---
@@ -38,7 +39,9 @@ Figure below visualizes an eigenmode solved using this code.
   - Malkus field results added, equations complete.
   - Poloidal dipolar field results added, equations complete.
 - [PDF] <a href="{{ 'assets/pdf/regular_tensors_polar_coordinates.pdf' | relative_url }}">Regularity conditions for general tensors in polar coordinates</a>.
+
 <br />
+
 ---
 
 ### Code and demos

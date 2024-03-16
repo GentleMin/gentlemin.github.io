@@ -28,3 +28,19 @@ In rare circumstances where these items are actually used, please give me (and c
   - Possible scenario: establishing a burger place in or very close to ETH zentrum campus, e.g. on the same floor with bQm, Einstein Zweistein. May however be sued by Holy Cow.
   - Author: J Min
 
+<br />
+
+---
+
+### The Poly Franchise
+
+- Origin: from the pre-existing names of ETH facilities/events containing "poly" (e.g. *Polyterrasse*, *Polybahn*, *Polymesse*, *Polyball*, etc.). Meant to be used in a similar way as the prefix "Mc".
+- ***PolySchnitzel***: Schnitzel, preferably on a stick. Can also be used to name a Schnitzel truck that offers Schnitzels on sticks.
+- ***PolyNuggests***: Nuggets.
+- ***PolyChicken***: Chicken.
+- ***PolyFish***: Fish.
+- ***Big Poly***: Supposed to be a big hamburger, but we already have *Poly Cow* for the burger series?
+- Author: EPM group
+
+<br />
+
