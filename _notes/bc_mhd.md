@@ -114,11 +114,11 @@ t_l^m &= 0
 \end{aligned}
 $$
 
-Cancelling out the exterior field coefficient from the first two equations, we have
+Cancelling out the exterior field coefficient from the first two equations, we have at the boundary
 
 $$
 \begin{aligned}
-\frac{d}{dr}(rp_l^m) + l p_l^m = \frac{d p_l^m}{dr} + (l+1)p_l^m &= 0\\
+\frac{d}{dr}(rp_l^m) + l p_l^m = r\frac{d p_l^m}{dr} + (l+1)p_l^m &= 0\\
 t_l^m &= 0
 \end{aligned}
 $$
