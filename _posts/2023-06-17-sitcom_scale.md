@@ -10,7 +10,7 @@ tags:
   - TBBT
   - Bean
   - TheITCrowd
-categories: Film-TV
+categories: Culture
 related_posts: false
 ---
 
