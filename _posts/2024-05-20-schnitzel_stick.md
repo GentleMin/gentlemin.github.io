@@ -20,7 +20,7 @@ In the ~~celebrated and acclaimed~~ (I seem to be the only one celebrating and a
 </div>
 <br />
 
-*Too miss this dream will make me sick*  
+*To miss this dream will make me sick*  
 *But for now I serve the Schnitzel stick!*  
 Says the man who dreams of becoming part of a Yodelling group or an actor, but can only get the role of a Woodsman in the commercial, and has to serve Schnitzels on a stick for a living.
 
