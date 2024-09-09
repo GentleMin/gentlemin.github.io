@@ -5,6 +5,7 @@ date: 2024-05-20 22:12:00-0400
 description: In hoodwinked, the nette Schnitzelmann sells Schnitzel on a stick. Is it a legitimate form of Schnitzel?
 categories: Culture
 cjk: false
+giscus_comments: true
 related_posts: false
 ---
 

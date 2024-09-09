@@ -4,6 +4,7 @@ title: List of word plays to be used as titles
 date: 2023-07-04 22:12:00-0400
 description: of articles or books, punchlines in presentations, names of products (continuously updated)
 categories: Sci-Tech
+giscus_comments: true
 related_posts: false
 ---
 

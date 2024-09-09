@@ -7,6 +7,7 @@ tags:
   - Slovenia
   - Ljubljana
 categories: Travel
+giscus_comments: true
 related_posts: false
 ---
 

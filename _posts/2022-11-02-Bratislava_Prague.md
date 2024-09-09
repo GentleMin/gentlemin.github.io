@@ -9,6 +9,7 @@ tags:
   - Czechia
   - Prague
 categories: Travel
+giscus_comments: true
 related_posts: false
 ---
 

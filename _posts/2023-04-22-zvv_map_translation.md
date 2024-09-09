@@ -5,6 +5,7 @@ date: 2023-04-22 22:00:00-0400
 description: Translation? or maybe just transliteration?
 tags: Zürich
 categories: Travel
+giscus_comments: true
 related_posts: false
 ---
 
