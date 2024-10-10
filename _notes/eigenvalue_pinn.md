@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 title: Eigenvalue problem with Physics-informed Neural Network
 description: Solve eigenvalue-eigenfunction pair with PINNs
 importance: 1
 date: 2023-04-04 23:30:00-0400
 category: Computation
+related_posts: false
 ---
 
 ---
