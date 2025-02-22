@@ -5,6 +5,8 @@ description: Helmholtz representation, Mie representation, etc.
 importance: 1
 date: 2023-02-10 22:12:00-0400
 category: Maths
+toc:
+  sidebar: left
 ---
 
 Here I compile a self-contained description of vector field representation and decomposition, and differential operator on a sphere.
