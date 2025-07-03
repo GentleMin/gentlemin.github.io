@@ -12,7 +12,7 @@ profile:
   address: >
     <p>H27, Sonneggstrasse 5</p>
     <p>8092 Zürich</p>
-    <p>jingtao.min@erdw.ethz.ch</p>
+    <p>jingtao.min@eaps.ethz.ch</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to the personal homepage of Jingtao Min.
 
-Currently a doctoral student in Earth sciences at Departement Erdwissenschaften, ETH Zürich, I am mainly interested in numerical modelling, [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) and [data assimilation](https://en.wikipedia.org/wiki/Data_assimilation) in geophysics.
+Currently a doctoral student at Institut für Geophysik, ETH Zürich, I am mainly interested in applying analytical / numerical modelling, [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) and [data assimilation](https://en.wikipedia.org/wiki/Data_assimilation) to investigate geomagnetic field and geophysical fluid dynamics.
 
-Since the beginning of my doctoral studies, I have taken a slight shift towards the underlying physics, and have been involved with studying the reduced models of geodynamo and geomagnetic data assimilation.
+Since the beginning of my doctoral studies, I have been involved with studying the reduced models of geodynamo and geomagnetic data assimilation.
 Combining improved physical models with geomagnetic observations, we might be able to place new constraints on the dynamics of the Earth core and deep interior properties such as the electrical conductivity or the magnetic field.
 These ultimately determines the core-mantle, inner-core-outer-core coupling, as well as the evolution of the geomagnetic field.
 Being a fickle person in pursuit of Earth sciences, I find my interest constantly shifting, and I'm open to new ideas.
