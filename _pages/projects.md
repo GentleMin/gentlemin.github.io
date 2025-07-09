@@ -6,7 +6,7 @@ permalink: /projects/
 description: Research works, thesis, other projects and gadgets.
 nav: true
 nav_order: 2
-display_categories: [Geomagnetism, Geodynamics, Seismology]
+display_categories: [Geomagnetism, Geodynamics, Seismology, Fluid Dynamics, Inverse theory, Others]
 horizontal: true
 ---
 

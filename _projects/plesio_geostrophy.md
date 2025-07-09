@@ -18,6 +18,19 @@ Figure below visualizes an eigenmode solved using this code.
         {% include figure.html path="assets/img/em/malkus_eigenmode.png" title="malkus eigenmode" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+    PG eigenmode solved under S1 background field.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/em/PsG_sample.png" title="S1 eigenmode" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    A magneto-Coriolis (MC) mode solved under S1 background field, comparison between PsG (new variant of PG) and 3D results
+</div>
+
 <br />
 
 ---
