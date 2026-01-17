@@ -51,7 +51,8 @@ This work is a collaboration with Dr. Alexander Grayver (University of Cologne).
 
 ### Published work
 
-- Jingtao Min, Alexander Grayver, [A decade of the fast-varying ionospheric and magnetospheric magnetic fields from ground and multisatellite observations](https://doi.org/10.1093/gji/ggaf065), *Geophysical Journal International*, Volume 241, Issue 2, May 2025, Pages 797–825.
+- Jingtao Min, Alexander Grayver, (2025) [A decade of the fast-varying ionospheric and magnetospheric magnetic fields from ground and multisatellite observations](https://doi.org/10.1093/gji/ggaf065), *Geophysical Journal International*, Volume 241, Issue 2, Pages 797–825.
+- Alexander Grayver, Jingtao Min, Nils Olsen, Ashley Smith, (2025) [Assimilation of ground and satellite magnetic observations unravels the ionospheric, magnetospheric, and induced fields during the May and October 2024 geomagnetic storms](https://doi.org/10.1029/2025GL116964), *Geophysical Research Letters*, 52, e2025GL116964.
 
 <br />
 
