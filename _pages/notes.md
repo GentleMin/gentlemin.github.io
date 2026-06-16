@@ -6,7 +6,7 @@ permalink: /notes/
 description: Compilation of notes and useful materials.
 nav: true
 nav_order: 1
-display_categories: [Computation, Maths, Physics, Tools]
+display_categories: [Maths, Computation, Physics, Tools]
 horizontal: false
 ---
 
