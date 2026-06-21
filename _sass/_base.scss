@@ -6,6 +6,8 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  font-family: "Noto Serif", "Noto Serif SC", "Roboto", sans-serif;
+  // font-weight: 400;
 }
 
 hr {
