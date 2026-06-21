@@ -9,6 +9,14 @@ giscus_comments: true
 related_posts: true
 ---
 
+***Series on evolution of society as optimization***
+
+1. [Evolution of society as optimization]({% post_url 2026-06-10-optimize_society %}) (this post)
+2. [Democracy of homo economicus]({% post_url 2026-06-17-econ_democracy %})
+
+<br />
+
+
 There are certainly many aspects of society that are linked with optimization. Every entity participating in economics supposedly maximizes their utilities. Traders try to optimize their profits; buyers try to minimize their costs; asset managers try to maximize the outcome of their investments. Yet I always believe that the link between society and optimization goes even beyond all these - not only micro decisions made by entities in the economy can be described by an optimization problem, but the entire evolution of the society as well.
 
 It is not uncommon to see optimization algorithms inspired by the society or biological groups. For instance, the Evolution Strategy (ES), or more generally Evolutionary Algorithms (EA), are inspired by the idea of biological evolution, and achieve the purpose of optimization by generating progressive more optimal samples at every iteration / generation. Transplanting the idea in social evolution into optimization problem reveals the following belief: we think that a society, whether a human society, or a biological population, or perhaps a biome, should be optimizing some objective as it evolves through time. If this is indeed the case, then we can also exploit this belief further by actually casting the evolution of society as an optimization problem.

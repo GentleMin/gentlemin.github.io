@@ -9,7 +9,14 @@ giscus_comments: true
 related_posts: true
 ---
 
-We have already derived that when optimizing a global utility function that is an equal summation of individual's utilities, the simplest iteration scheme based on gradient descent / steepest descent takes the form
+***Series on evolution of society as optimization***
+
+1. [Evolution of society as optimization]({% post_url 2026-06-10-optimize_society %})
+2. [Democracy of homo economicus]({% post_url 2026-06-17-econ_democracy %}) (this post)
+
+<br />
+
+We have already derived that when optimizing a global utility function that is an equal summation of individual's utilities (see [previous post]({% post_url 2026-06-10-optimize_society %})), the simplest iteration scheme based on gradient descent / steepest descent takes the form
 
 $$
 \mathbf{x}^{t+1} = \mathbf{x}^t + \alpha \sum_i \nabla u_i(\mathbf{x}^t).
