@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Boundary conditions for magnetohydrodynamics
+title: Magnetic boundary conditions for magnetohydrodynamics (MHD) in spherical geometry
 description: Electromagnetic and kinematic boundary conditions that is used in MHD.
 importance: 1
 date: 2023-06-15 12:30:00-0400
 category: Physics
 ---
 
-## Electromagnetic boundary conditions
 
-### Insulating boundary for sphere
+## Insulating boundary for sphere
 
 Setup: a electrically conductive sphere with finite conductivity, in contact with a perfect insulating exterior, which extends to infinity. There are no imposed or conducted currents anywhere outside the sphere. The electromagnetic boundary condition requires 
 - continuity of boundary-normal magnetic field $$\hat{\mathbf{n}}\cdot[\![\mathbf{B}]\!] = 0$$, absolutely required by solenoidal property of magnetic field
@@ -125,6 +124,4 @@ $$
 
 which gives the boundary solely in terms of the field coefficients in the interior region. It can be easily shown that for any field that satisfies this condition, there is a field within the insulating medium exterior to the sphere so that the original boundary conditions are satisfied. Therefore, this set of BC is sufficient and necessary.
 
-
-## Kinematic boundary conditions
 

@@ -50,6 +50,8 @@ $$
 \end{aligned}
 $$
 
+<br />
+
 ### Tor-Pol representation, incompressible
 
 Under incompressible approximation, the solenoidal velocity field can be represented using one toroidal and one poloidal scalar, via
@@ -81,6 +83,8 @@ Given that no-penetration condition requires $$P\vert_{\partial V} = 0$$, the po
 $$
 P\vert_{\partial V} = 0 \quad \& \quad \partial_r^2 P\vert_{\partial V} = 0.
 $$
+
+<br />
 
 ### Tor-Pol representation, anelastic
 
@@ -118,5 +122,5 @@ $$
 \left[\frac{\partial_r^2 P}{\bar{\rho}r} + \frac{\partial_r P}{r} \partial_r \frac{1}{\bar{\rho}}\right]_{\partial V} = \frac{1}{r} \frac{\partial}{\partial r} \left(\frac{\partial_r P}{\bar{\rho}}\right)\bigg\vert_{\partial V} = 0
 $$
 
-We also see that condition re\verts back to $$\partial_r^2 P\vert_{\partial V} = 0$$ when $$\bar{\rho} = \text{Cst}.$$, which is the case under the incompressible approximation.
+We also see that condition reverts back to $$\partial_r^2 P\vert_{\partial V} = 0$$ when $$\bar{\rho} = \text{Cst}.$$, which is the case under the incompressible approximation.
 

@@ -18,6 +18,8 @@ $$\frac{\partial^2 p}{\partial t^2} + 2 \mathbf{u} \cdot \nabla \frac{\partial p
 
 where $$c$$ is the wave speed.
 
+<br />
+
 # Green's function for 1D advection-wave equation in infinite domain
 
 The equation in 1D reads
@@ -52,6 +54,8 @@ $$\begin{aligned}
 
 The interpretation of this 1D Green's function is very straightforward. The pertubation at time $$t'$$ and position $$x'$$ will travel upwind (=against the advection direction) with a velocity $$\sqrt{c^2 + v^2} - v = c (\sqrt{1 + \mathrm{M}^2} - \mathrm{M})$$ slightly greater than the wave speed, and downwind (=following the advection direction) with a velocity $$\sqrt{c^2 + v^2} + v = c (\sqrt{1 + \mathrm{M}^2} + \mathrm{M})$$, slightly lower than the wave speed. The propagation of the pertubation in both direction takes the form of a step function, with a constant amplitude $$1/(2\sqrt{c^2 + v^2}) = 1/(2c\sqrt{1 + \mathrm{M}^2})$$. I leave the derivation in the back.
 
+<br />
+
 ## Zeroth-order approximation
 
 At Mach number $$\mathrm{M} = 0$$, the system degenerates to the original wave equation with no advection; the Green's function can be immediately obtained by setting $$\mathrm{M} = 0$$ in the expression above:
@@ -60,6 +64,9 @@ $$\begin{aligned}
     g(x,t;x',t') &= \frac{H(t-t')}{2c} \left[H\left(t-t' - \frac{x - x'}{c}\right) + H\left(t-t' + \frac{x - x'}{c}\right) - 1\right] \\ 
     &= \frac{H(t-t')}{2c} \, \mathbb{1} \left(-c < \frac{x - x'}{t - t'} < c\right).
 \end{aligned}$$
+
+<br />
+
 
 ## First-order approximation
 
@@ -73,6 +80,9 @@ $$\begin{aligned}
 \end{aligned}$$
 
 At this order the pertubations simply propagate at speeds $$c + v$$ and $$c - v$$ in each direction. It should however be noted that here the approximation in the propgation velocity has been used. This approximation is not uniformly valid at large distance / long propgation time, but only up to a certain distance / time that scales with $$\mathrm{M}^{-1}$$.
+
+<br />
+
 
 ## Derivation of the Green's function
 
